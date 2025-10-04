@@ -1,0 +1,292 @@
+[2025-05-24 00:32:17] cmb1hvy7k00a0xbyg1iyaaznb - Novo PIX gerado e salvo como PENDING
+[2025-05-24 02:39:04] cmb1hrtwn060l14goc8nxvomi - Expirado e removido
+[2025-05-24 02:39:05] cmb1hvy7k00a0xbyg1iyaaznb - Expirado e removido
+[2025-05-24 02:39:07] cmb1mf2bd052at5g62c5w0gcy - Novo PIX gerado e salvo como PENDING
+[2025-05-24 05:01:58] cmb1mf2bd052at5g62c5w0gcy - Expirado e removido
+[2025-05-24 05:02:03] cmb1ritif04ugy6wyj2gt2yn7 - Novo PIX gerado e salvo como PENDING
+[2025-05-24 10:02:54] cmb1ritif04ugy6wyj2gt2yn7 - Expirado e removido
+[2025-05-24 10:02:59] cmb229tst0c5zxbygqh9mngcg - Novo PIX gerado e salvo como PENDING
+[2025-05-24 10:44:08] cmb229tst0c5zxbygqh9mngcg - Expirado e removido
+[2025-05-24 10:44:13] cmb23quea0eywt5g6gm72txuw - Novo PIX gerado e salvo como PENDING
+[2025-05-24 10:47:38] cmb23v9950egoxbygmxu3mrru - Novo PIX gerado e salvo como PENDING
+[2025-05-24 10:47:48] cmb23vgi30f5wt5g6s4txn3xw - Novo PIX gerado e salvo como PENDING
+[2025-05-24 11:08:59] cmb23quea0eywt5g6gm72txuw - Expirado e removido
+[2025-05-24 11:08:59] cmb23v9950egoxbygmxu3mrru - Expirado e removido
+[2025-05-24 11:09:00] cmb23vgi30f5wt5g6s4txn3xw - Expirado e removido
+[2025-05-24 11:09:05] cmb24mtoi0c5jy6wy07gf37sy - Novo PIX gerado e salvo como PENDING
+[2025-05-24 11:14:16] cmb24thuo0gchxbygyamn3td7 - Novo PIX gerado e salvo como PENDING
+[2025-05-24 11:26:22] cmb24mtoi0c5jy6wy07gf37sy - Expirado e removido
+[2025-05-24 11:26:27] cmb2596940de2y6wy2l1j5fjt - Novo PIX gerado e salvo como PENDING
+[2025-05-24 11:30:53] cmb2596940de2y6wy2l1j5fjt - PAGO e enviado para UTMify
+[2025-05-24 11:30:57] cmb25eyoj0hvkt5g6nfe3uo4l - Novo PIX gerado e salvo como PENDING
+[2025-05-24 11:31:16] cmb24thuo0gchxbygyamn3td7 - Expirado e removido
+[2025-05-24 11:31:21] cmb25fh230hx4t5g6y4xj0wlw - Novo PIX gerado e salvo como PENDING
+[2025-05-24 11:34:04] cmb25fh230hx4t5g6y4xj0wlw - PAGO e enviado para UTMify
+[2025-05-24 11:39:22] cmb25psff0i3txbygzanz1ss3 - Novo PIX gerado e salvo como PENDING
+[2025-06-14 16:39:24] cmb1hrtwn060l14goc8nxvomi - Expirado e removido
+[2025-06-14 16:39:26] cmbwgotdj04l595usq2l9xle2 - Novo PIX gerado e salvo como PENDING
+[2025-06-14 17:07:56] cmbwgotdj04l595usq2l9xle2 - Expirado e removido
+[2025-06-14 17:07:58] cmbwhpi8u068yg9bcnzwd4aa2 - Novo PIX gerado e salvo como PENDING
+[2025-06-14 17:23:06] cmbwi8yq006n7g9bcbac1ps3d - Novo PIX gerado e salvo como PENDING
+[2025-06-14 17:26:53] cmbwhpi8u068yg9bcnzwd4aa2 - Expirado e removido
+[2025-06-14 17:26:56] cmbwidw25064114p7129j3z0h - Novo PIX gerado e salvo como PENDING
+[2025-06-14 17:30:20] cmbwii99b00k4ztbgsp6d39zd - Novo PIX gerado e salvo como PENDING
+[2025-06-14 17:31:04] cmbwij7he06wgg9bc05nk5b6g - Novo PIX gerado e salvo como PENDING
+[2025-06-14 17:35:19] cmbwions300p3ztbgeg13hc5g - Novo PIX gerado e salvo como PENDING
+[2025-06-14 17:42:06] cmbwi8yq006n7g9bcbac1ps3d - Expirado e removido
+[2025-06-14 17:42:10] cmbwixhp906kt14p70mevnub0 - Novo PIX gerado e salvo como PENDING
+[2025-06-14 17:47:52] cmbwidw25064114p7129j3z0h - Expirado e removido
+[2025-06-14 17:47:52] cmbwii99b00k4ztbgsp6d39zd - Expirado e removido
+[2025-06-14 17:47:52] cmbwij7he06wgg9bc05nk5b6g - Expirado e removido
+[2025-06-14 17:47:56] cmbwj4w5k07fbg9bcehut0d9c - Novo PIX gerado e salvo como PENDING
+[2025-06-14 18:00:30] cmbwions300p3ztbgeg13hc5g - Expirado e removido
+[2025-06-14 18:00:31] cmbwixhp906kt14p70mevnub0 - Expirado e removido
+[2025-06-14 18:00:35] cmbwjl511078v14p7g7a5c98b - Novo PIX gerado e salvo como PENDING
+[2025-06-14 18:04:48] cmbwj4w5k07fbg9bcehut0d9c - Expirado e removido
+[2025-06-14 18:04:51] cmbwjqnhd07w3g9bc6mhafn29 - Novo PIX gerado e salvo como PENDING
+[2025-06-14 18:05:16] cmbwjr6js01rs13eo4l5bcy1t - Novo PIX gerado e salvo como PENDING
+[2025-06-14 18:24:41] cmbwjl511078v14p7g7a5c98b - Expirado e removido
+[2025-06-14 18:24:41] cmbwjqnhd07w3g9bc6mhafn29 - Expirado e removido
+[2025-06-14 18:24:41] cmbwjr6js01rs13eo4l5bcy1t - Expirado e removido
+[2025-06-14 18:24:44] cmbwkg80007y314p7ub7p0bon - Novo PIX gerado e salvo como PENDING
+[2025-06-14 18:44:18] cmbwkg80007y314p7ub7p0bon - Expirado e removido
+[2025-06-14 18:44:21] cmbwl5g2608mi14p707m6q8tx - Novo PIX gerado e salvo como PENDING
+[2025-06-14 18:56:02] cmbwl5g2608mi14p707m6q8tx - PAGO e enviado para UTMify
+[2025-06-14 18:56:05] cmbwlkiyz038zztbglah16f0g - Novo PIX gerado e salvo como PENDING
+[2025-06-14 18:56:17] cmbwlksw303fl13eo84e3fps5 - Novo PIX gerado e salvo como PENDING
+[2025-06-14 18:56:58] cmbwlkiyz038zztbglah16f0g - Removido via deletar.php
+[2025-06-14 20:31:30] cmbwlksw303fl13eo84e3fps5 - Expirado e removido
+[2025-06-14 20:31:33] cmbwozb160d7114p7rjjbsgl7 - Novo PIX gerado e salvo como PENDING
+[2025-06-14 21:27:08] cmbwozb160d7114p7rjjbsgl7 - Expirado e removido
+[2025-06-14 21:27:10] cmbwqyudc0fvl14p70ia9ntcv - Novo PIX gerado e salvo como PENDING
+[2025-06-14 21:28:04] cmbwqzzsd09j0ztbgfga15itk - Novo PIX gerado e salvo como PENDING
+[2025-06-14 21:36:00] cmbwqzzsd09j0ztbgfga15itk - PAGO e enviado para UTMify
+[2025-06-14 21:36:04] cmbwra90i0gbc14p7rhnsa74s - Novo PIX gerado e salvo como PENDING
+[2025-06-14 21:37:24] cmbwra90i0gbc14p7rhnsa74s - Removido via deletar.php
+[2025-06-14 21:38:31] cmbwrdev00fyzg9bc9ygldxcj - Novo PIX gerado e salvo como PENDING
+[2025-06-14 21:39:47] cmbwrdev00fyzg9bc9ygldxcj - Removido via deletar.php
+[2025-06-14 21:54:41] cmbwqyudc0fvl14p70ia9ntcv - Expirado e removido
+[2025-06-14 21:54:43] cmbwry9eg0as613eo5qibnz2v - Novo PIX gerado e salvo como PENDING
+[2025-06-14 21:56:02] cmbwry9eg0as613eo5qibnz2v - Removido via deletar.php
+[2025-06-14 22:38:01] cmbwthy1h0d2bztbgvbniaamj - Novo PIX gerado e salvo como PENDING
+[2025-06-14 23:08:07] cmbwthy1h0d2bztbgvbniaamj - PAGO e enviado para UTMify
+[2025-06-14 23:08:10] cmbwukplz0dtaztbgjue7ork6 - Novo PIX gerado e salvo como PENDING
+[2025-06-14 23:08:11] cmbwukpm70jyw14p7v4qdrgwn - Novo PIX gerado e salvo como PENDING
+[2025-06-14 23:32:41] cmbwukplz0dtaztbgjue7ork6 - Expirado e removido
+[2025-06-14 23:32:42] cmbwukpm70jyw14p7v4qdrgwn - Expirado e removido
+[2025-06-14 23:32:44] cmbwvgbit0efx13eolsu9v8z2 - Novo PIX gerado e salvo como PENDING
+[2025-06-15 00:32:11] cmbwvgbit0efx13eolsu9v8z2 - Expirado e removido
+[2025-06-15 00:32:13] cmbwxktcs00g559hrjdebzwl7 - Novo PIX gerado e salvo como PENDING
+[2025-06-15 00:49:58] cmbwxktcs00g559hrjdebzwl7 - Removido via deletar.php
+[2025-06-15 00:57:44] cmbwyhmho0mr314p73lw94ak6 - Novo PIX gerado e salvo como PENDING
+[2025-06-15 01:16:51] cmbwyhmho0mr314p73lw94ak6 - PAGO e enviado para UTMify
+[2025-06-15 01:16:54] cmbwz693z0nde14p7uye8ms44 - Novo PIX gerado e salvo como PENDING
+[2025-06-15 02:17:55] cmbwz693z0nde14p7uye8ms44 - Expirado e removido
+[2025-06-15 02:17:57] cmbx1cscz00gljlqk6sum9oan - Novo PIX gerado e salvo como PENDING
+[2025-06-15 02:35:50] cmbx1cscz00gljlqk6sum9oan - PAGO e enviado para UTMify
+[2025-06-15 02:35:53] cmbx1zu7h00nrf9btegh2x4m3 - Novo PIX gerado e salvo como PENDING
+[2025-06-15 02:58:37] cmbx1zu7h00nrf9btegh2x4m3 - Expirado e removido
+[2025-06-15 02:58:40] cmbx2t58j00xxf9bt4qwvr38z - Novo PIX gerado e salvo como PENDING
+[2025-06-15 03:02:32] cmbx2t58j00xxf9bt4qwvr38z - Removido via deletar.php
+[2025-06-15 03:03:05] cmbx2yt990104f9bt028thryq - Novo PIX gerado e salvo como PENDING
+[2025-06-15 05:55:32] cmbx2yt990104f9bt028thryq - Expirado e removido
+[2025-06-15 05:55:34] cmbx94n2302dagvkasnzhe74v - Novo PIX gerado e salvo como PENDING
+[2025-06-15 05:57:38] cmbx94n2302dagvkasnzhe74v - Removido via deletar.php
+[2025-06-15 06:26:18] cmbxa85ft02j0f9btx771zw6c - Novo PIX gerado e salvo como PENDING
+[2025-06-15 06:31:06] cmbxa85ft02j0f9btx771zw6c - Removido via deletar.php
+[2025-06-15 11:47:34] cmbxlpb8007nkgvkazaeeoj95 - Novo PIX gerado e salvo como PENDING
+[2025-06-15 11:48:48] cmbxlqwje07o7f9btmxaa9l3s - Novo PIX gerado e salvo como PENDING
+[2025-06-15 11:50:31] cmbxlpb8007nkgvkazaeeoj95 - Removido via deletar.php
+[2025-06-15 11:50:41] cmbxltbaz07y0phz3wlvfmzi3 - Novo PIX gerado e salvo como PENDING
+[2025-06-15 12:24:08] cmbxlqwje07o7f9btmxaa9l3s - Expirado e removido
+[2025-06-15 12:24:10] cmbxltbaz07y0phz3wlvfmzi3 - Expirado e removido
+[2025-06-15 12:24:13] cmbxn0g1m08yay6xl9d66eirq - Novo PIX gerado e salvo como PENDING
+[2025-06-15 12:24:53] cmbxn0g1m08yay6xl9d66eirq - Removido via deletar.php
+[2025-06-15 12:35:07] cmbxnegxv09mxgvkaoi8ds9qs - Novo PIX gerado e salvo como PENDING
+[2025-06-15 16:57:39] cmbxnegxv09mxgvkaoi8ds9qs - Expirado e removido
+[2025-06-15 16:57:41] cmbxws4m8014sn8xrkeeeqc9j - Novo PIX gerado e salvo como PENDING
+[2025-06-15 16:58:39] cmbxws4m8014sn8xrkeeeqc9j - Removido via deletar.php
+[2025-06-15 17:05:07] cmbxx1os20jjty6xlfarn6yg9 - Novo PIX gerado e salvo como PENDING
+[2025-06-15 17:06:20] cmbxx1os20jjty6xlfarn6yg9 - PAGO e enviado para UTMify
+[2025-06-15 17:06:23] cmbxx3axf0iqephz3ya36ds70 - Novo PIX gerado e salvo como PENDING
+[2025-06-15 17:08:46] cmbxx3axf0iqephz3ya36ds70 - Removido via deletar.php
+[2025-06-15 17:14:51] cmbxxe77d03ezz0cdg1pvwbdv - Novo PIX gerado e salvo como PENDING
+[2025-06-15 17:18:28] cmbxxe77d03ezz0cdg1pvwbdv - Removido via deletar.php
+[2025-06-15 17:18:35] cmbxxj05701nl7q86pw8n9s5u - Novo PIX gerado e salvo como PENDING
+[2025-06-15 17:28:21] cmbxxvkc50279n8xrxzb5op6z - Novo PIX gerado e salvo como PENDING
+[2025-06-15 17:35:50] cmbxxj05701nl7q86pw8n9s5u - Expirado e removido
+[2025-06-15 17:35:50] cmbxxvkc50279n8xrxzb5op6z - PAGO e enviado para UTMify
+[2025-06-15 17:35:53] cmbxy591n029z7q86ftuxv14w - Novo PIX gerado e salvo como PENDING
+[2025-06-15 17:41:14] cmbxyc4xw04msz0cdqfqy0vli - Novo PIX gerado e salvo como PENDING
+[2025-06-15 17:48:11] cmbxyl2hu02tmn8xr5jgpws0q - Novo PIX gerado e salvo como PENDING
+[2025-06-15 17:52:48] cmbxy591n029z7q86ftuxv14w - Expirado e removido
+[2025-06-15 17:52:51] cmbxyr2r7034zn8xren8640il - Novo PIX gerado e salvo como PENDING
+[2025-06-15 18:16:37] cmbxyc4xw04msz0cdqfqy0vli - Expirado e removido
+[2025-06-15 18:16:37] cmbxyl2hu02tmn8xr5jgpws0q - Expirado e removido
+[2025-06-15 18:16:38] cmbxyr2r7034zn8xren8640il - Expirado e removido
+[2025-06-15 18:16:40] cmbxzlp6303vt7q86z9d0f7vz - Novo PIX gerado e salvo como PENDING
+[2025-06-15 18:30:52] cmbxzlp6303vt7q86z9d0f7vz - PAGO e enviado para UTMify
+[2025-06-15 18:30:55] cmby040ud06lfz0cd1134c200 - Novo PIX gerado e salvo como PENDING
+[2025-06-15 18:35:17] cmby09nho06rxz0cdmq1adh90 - Novo PIX gerado e salvo como PENDING
+[2025-06-15 18:37:35] cmby09nho06rxz0cdmq1adh90 - PAGO e enviado para UTMify
+[2025-06-15 18:37:37] cmby0cnii04jv7q86to4nupac - Novo PIX gerado e salvo como PENDING
+[2025-06-15 18:46:35] cmby0cnii04jv7q86to4nupac - PAGO e enviado para UTMify
+[2025-06-15 18:46:37] cmby0o7n0050y7q863u70dul9 - Novo PIX gerado e salvo como PENDING
+[2025-06-15 18:47:37] cmby0o7n0050y7q863u70dul9 - Removido via deletar.php
+[2025-06-15 19:22:09] cmby040ud06lfz0cd1134c200 - Expirado e removido
+[2025-06-15 19:22:12] cmby1xypx00oc4f2luz8wxhcq - Novo PIX gerado e salvo como PENDING
+[2025-06-15 19:34:31] cmby1xypx00oc4f2luz8wxhcq - PAGO e enviado para UTMify
+[2025-06-15 19:34:34] cmby2dviu016e4f2lcspktd7l - Novo PIX gerado e salvo como PENDING
+[2025-06-15 19:36:35] cmby2dviu016e4f2lcspktd7l - Removido via deletar.php
+[2025-06-15 19:49:10] cmby2wnb70028i25j5hpc26ut - Novo PIX gerado e salvo como PENDING
+[2025-06-15 19:51:22] cmby2wnb70028i25j5hpc26ut - Removido via deletar.php
+[2025-06-15 20:02:10] cmby3dd98081en8xrb9dsf668 - Novo PIX gerado e salvo como PENDING
+[2025-06-15 20:03:39] cmby3fa2p00genth8lsnijfsr - Novo PIX gerado e salvo como PENDING
+[2025-06-15 20:04:44] cmby3go1a00iqnth8sxq8dbmo - Novo PIX gerado e salvo como PENDING
+[2025-06-15 20:05:02] cmby3h28c085h7q86dohtpb8n - Novo PIX gerado e salvo como PENDING
+[2025-06-15 20:10:36] cmby3o7i500o5i25jmil7yj8k - Novo PIX gerado e salvo como PENDING
+[2025-06-15 20:10:54] cmby3olsx00oui25jssa31i5d - Novo PIX gerado e salvo como PENDING
+[2025-06-15 20:10:58] cmby3opcw08fkn8xrt78z47ge - Novo PIX gerado e salvo como PENDING
+[2025-06-15 20:20:12] cmby3dd98081en8xrb9dsf668 - Expirado e removido
+[2025-06-15 20:20:16] cmby40nra08nmn8xrstfnq9wv - Novo PIX gerado e salvo como PENDING
+[2025-06-15 20:29:04] cmby3fa2p00genth8lsnijfsr - Expirado e removido
+[2025-06-15 20:29:04] cmby3go1a00iqnth8sxq8dbmo - Expirado e removido
+[2025-06-15 20:29:05] cmby3h28c085h7q86dohtpb8n - Expirado e removido
+[2025-06-15 20:29:05] cmby3o7i500o5i25jmil7yj8k - Expirado e removido
+[2025-06-15 20:29:06] cmby3olsx00oui25jssa31i5d - Expirado e removido
+[2025-06-15 20:29:06] cmby3opcw08fkn8xrt78z47ge - Expirado e removido
+[2025-06-15 20:29:06] cmby40nra08nmn8xrstfnq9wv - PAGO e enviado para UTMify
+[2025-06-15 20:29:09] cmby4c2ho00ol125jefe6pynu - Novo PIX gerado e salvo como PENDING
+[2025-06-15 20:37:47] cmby4n6qt093k7q86krwrik9m - Novo PIX gerado e salvo como PENDING
+[2025-06-15 20:41:15] cmby4n6qt093k7q86krwrik9m - Removido via deletar.php
+[2025-06-15 20:59:26] cmby4c2ho00ol125jefe6pynu - Expirado e removido
+[2025-06-15 20:59:28] cmby5f2hj025wnth8x8vjk550 - Novo PIX gerado e salvo como PENDING
+[2025-06-15 21:06:45] cmby5f2hj025wnth8x8vjk550 - PAGO e enviado para UTMify
+[2025-06-15 21:06:48] cmby5ohbl09q6n8xrrtyiqbfz - Novo PIX gerado e salvo como PENDING
+[2025-06-15 21:08:46] cmby1xypx00oc4f2luz8wxhcq - Removido via deletar.php
+[2025-06-15 21:09:49] cmby5ohbl09q6n8xrrtyiqbfz - PAGO e enviado para UTMify
+[2025-06-15 21:09:49] cmby5ohbl09q6n8xrrtyiqbfz - PAGO e enviado para UTMify
+[2025-06-15 21:09:51] cmby5sf6l09yv7q86vgzycqms - Novo PIX gerado e salvo como PENDING
+[2025-06-15 21:09:52] cmby5sfmk02l3nth8x572cfhz - Novo PIX gerado e salvo como PENDING
+[2025-06-15 21:47:53] cmby5sf6l09yv7q86vgzycqms - Expirado e removido
+[2025-06-15 21:47:53] cmby5sfmk02l3nth8x572cfhz - Expirado e removido
+[2025-06-15 21:47:55] cmby75dkp00q3ojp4bqe5k7vy - Novo PIX gerado e salvo como PENDING
+[2025-06-15 21:51:08] cmby75dkp00q3ojp4bqe5k7vy - PAGO e enviado para UTMify
+[2025-06-15 21:51:10] cmby79jz802sb125jx6v17a61 - Novo PIX gerado e salvo como PENDING
+[2025-06-15 21:51:28] cmby75dkp00q3ojp4bqe5k7vy - Removido via deletar.php
+[2025-06-15 21:56:56] cmby7gz2e033lkkkptq0ui0bz - Novo PIX gerado e salvo como PENDING
+[2025-06-15 21:58:12] cmby7ilcp0345kkkpzikzi7mz - Novo PIX gerado e salvo como PENDING
+[2025-06-15 22:08:06] cmby79jz802sb125jx6v17a61 - Expirado e removido
+[2025-06-15 22:08:09] cmby7vdxm03qmnth8vf6nnypa - Novo PIX gerado e salvo como PENDING
+[2025-06-15 22:09:08] cmby7vdxm03qmnth8vf6nnypa - Removido via deletar.php
+[2025-06-15 22:25:37] cmby7gz2e033lkkkptq0ui0bz - Expirado e removido
+[2025-06-15 22:25:38] cmby7ilcp0345kkkpzikzi7mz - Expirado e removido
+[2025-06-15 22:25:40] cmby8hx0n03mckkkp5p0mj3w8 - Novo PIX gerado e salvo como PENDING
+[2025-06-15 22:27:53] cmby8hx0n03mckkkp5p0mj3w8 - Removido via deletar.php
+[2025-06-15 22:30:08] cmby8nmtl01frojp4h6nqwjxz - Novo PIX gerado e salvo como PENDING
+[2025-06-15 22:45:23] cmby979mo04awnth8v6jxwjcp - Novo PIX gerado e salvo como PENDING
+[2025-06-15 22:49:43] cmby8nmtl01frojp4h6nqwjxz - Expirado e removido
+[2025-06-15 22:49:46] cmby9cwjy0bddn8xr5snqayy1 - Novo PIX gerado e salvo como PENDING
+[2025-06-15 23:07:51] cmby979mo04awnth8v6jxwjcp - Expirado e removido
+[2025-06-15 23:07:52] cmby9cwjy0bddn8xr5snqayy1 - PAGO e enviado para UTMify
+[2025-06-15 23:07:54] cmbya089z04n5nth8dqofl44s - Novo PIX gerado e salvo como PENDING
+[2025-06-15 23:15:38] cmbyaa5yg04ggkkkpgj9wx1h2 - Novo PIX gerado e salvo como PENDING
+[2025-06-15 23:20:59] cmbya089z04n5nth8dqofl44s - PAGO e enviado para UTMify
+[2025-06-15 23:21:00] cmbyaa5yg04ggkkkpgj9wx1h2 - PAGO e enviado para UTMify
+[2025-06-15 23:21:04] cmbyah4cb0buyn8xr53gh6lod - Novo PIX gerado e salvo como PENDING
+[2025-06-15 23:28:41] cmbyah4cb0buyn8xr53gh6lod - PAGO e enviado para UTMify
+[2025-06-15 23:28:44] cmbyar09g054rnth8lgit8w6y - Novo PIX gerado e salvo como PENDING
+[2025-06-15 23:32:04] cmbyar09g054rnth8lgit8w6y - PAGO e enviado para UTMify
+[2025-06-15 23:32:07] cmbyavcnl0cni7q86pvur9sk5 - Novo PIX gerado e salvo como PENDING
+[2025-06-15 23:38:36] cmbyb3oqo0cs27q865yfz834d - Novo PIX gerado e salvo como PENDING
+[2025-06-15 23:38:37] cmbyb3qmh046e125jw3ejfujy - Novo PIX gerado e salvo como PENDING
+[2025-06-15 23:38:40] cmbyb3snl004f7reyol285tqe - Novo PIX gerado e salvo como PENDING
+[2025-06-15 23:38:42] cmbyb3uex05banth84fdlw12r - Novo PIX gerado e salvo como PENDING
+[2025-06-15 23:38:47] cmbyb3xoc046s125j2tkbxz4l - Novo PIX gerado e salvo como PENDING
+[2025-06-15 23:40:23] cmbyb3qmh046e125jw3ejfujy - Removido via deletar.php
+[2025-06-15 23:40:23] cmbyb3qmh046e125jw3ejfujy - Removido via deletar.php
+[2025-06-15 23:49:23] cmbyavcnl0cni7q86pvur9sk5 - Expirado e removido
+[2025-06-15 23:49:28] cmbybho4k051gkkkp40we78wq - Novo PIX gerado e salvo como PENDING
+[2025-06-15 23:53:39] cmbybho4k051gkkkp40we78wq - PAGO e enviado para UTMify
+[2025-06-15 23:53:41] cmbybn3pa0d697q86i2s3g90y - Novo PIX gerado e salvo como PENDING
+[2025-06-15 23:54:45] cmbybn3pa0d697q86i2s3g90y - Removido via deletar.php
+[2025-06-16 00:03:35] cmbyb3oqo0cs27q865yfz834d - Expirado e removido
+[2025-06-16 00:03:36] cmbyb3snl004f7reyol285tqe - Expirado e removido
+[2025-06-16 00:03:36] cmbyb3uex05banth84fdlw12r - Expirado e removido
+[2025-06-16 00:03:37] cmbyb3xoc046s125j2tkbxz4l - Expirado e removido
+[2025-06-16 00:03:39] cmbybzx7p04ki125jnww2shhv - Novo PIX gerado e salvo como PENDING
+[2025-06-16 00:24:29] cmbybzx7p04ki125jnww2shhv - PAGO e enviado para UTMify
+[2025-06-16 00:24:32] cmbycqrvl0dsq7q86bpclfrlw - Novo PIX gerado e salvo como PENDING
+[2025-06-16 00:26:33] cmbyctdf304wd125jbgu1jgvh - Novo PIX gerado e salvo como PENDING
+[2025-06-16 00:26:55] cmbyctu3e0dvh7q86u1tl6cmj - Novo PIX gerado e salvo como PENDING
+[2025-06-16 00:27:26] cmbyctu3e0dvh7q86u1tl6cmj - Removido via deletar.php
+[2025-06-16 00:29:41] cmbycxebu04ye125jny6npmsw - Novo PIX gerado e salvo como PENDING
+[2025-06-16 10:17:29] cmbycqrvl0dsq7q86bpclfrlw - Expirado e removido
+[2025-06-16 10:17:29] cmbyctdf304wd125jbgu1jgvh - Expirado e removido
+[2025-06-16 10:17:29] cmbycxebu04ye125jny6npmsw - PAGO e enviado para UTMify
+[2025-06-16 10:17:31] cmbyxxde7033dp4bmr31mooot - Novo PIX gerado e salvo como PENDING
+[2025-06-16 10:43:51] cmbyxxde7033dp4bmr31mooot - PAGO e enviado para UTMify
+[2025-06-16 10:43:53] cmbyyv9pq03ewmlhlt7f9pp5b - Novo PIX gerado e salvo como PENDING
+[2025-06-16 10:46:46] cmbyyyyul0cxzi25jgr0j874b - Novo PIX gerado e salvo como PENDING
+[2025-06-16 11:02:26] cmbyyv9pq03ewmlhlt7f9pp5b - Expirado e removido
+[2025-06-16 11:02:27] cmbyyyyul0cxzi25jgr0j874b - PAGO e enviado para UTMify
+[2025-06-16 11:02:29] cmbyzj7490djjnth8a9qmbtw8 - Novo PIX gerado e salvo como PENDING
+[2025-06-16 11:35:36] cmbyzj7490djjnth8a9qmbtw8 - PAGO e enviado para UTMify
+[2025-06-16 11:35:39] cmbz0ptmg04z0p4bme0kair8b - Novo PIX gerado e salvo como PENDING
+[2025-06-16 12:14:15] cmbz0ptmg04z0p4bme0kair8b - PAGO e enviado para UTMify
+[2025-06-16 12:14:18] cmbz23jj205demlhlpi71uxpv - Novo PIX gerado e salvo como PENDING
+[2025-06-16 12:17:29] cmbz27mf8060ep4bm954r0vkc - Novo PIX gerado e salvo como PENDING
+[2025-06-16 12:18:50] cmbz29d640622p4bm0nv6w87k - Novo PIX gerado e salvo como PENDING
+[2025-06-16 12:19:41] cmbz29d640622p4bm0nv6w87k - Removido via deletar.php
+[2025-06-16 12:59:26] cmbz23jj205demlhlpi71uxpv - Expirado e removido
+[2025-06-16 12:59:26] cmbz27mf8060ep4bm954r0vkc - Expirado e removido
+[2025-06-16 12:59:29] cmbz3pmuh012b12yrg255h3py - Novo PIX gerado e salvo como PENDING
+[2025-06-16 13:48:06] cmbz3pmuh012b12yrg255h3py - Expirado e removido
+[2025-06-16 13:48:08] cmbz5g7wk006dhnzgl45w784h - Novo PIX gerado e salvo como PENDING
+[2025-06-16 13:54:12] cmbz5o0e701xmbs2ga82yldr0 - Novo PIX gerado e salvo como PENDING
+[2025-06-16 14:05:35] cmbz5g7wk006dhnzgl45w784h - Expirado e removido
+[2025-06-16 14:05:35] cmbz5o0e701xmbs2ga82yldr0 - PAGO e enviado para UTMify
+[2025-06-16 14:05:38] cmbz62ppk00qvdt8gq9m8izyw - Novo PIX gerado e salvo como PENDING
+[2025-06-16 14:06:36] cmbz62ppk00qvdt8gq9m8izyw - Removido via deletar.php
+[2025-06-16 14:23:15] cmbz5o0e701xmbs2ga82yldr0 - Removido via deletar.php
+[2025-06-16 15:08:13] cmbz8b73x0084kaa08qwj3qw4 - Novo PIX gerado e salvo como PENDING
+[2025-06-16 15:11:11] cmbz8b73x0084kaa08qwj3qw4 - Removido via deletar.php
+[2025-06-16 15:39:14] cmbz9f3pc00w9my75o42d5lsm - Novo PIX gerado e salvo como PENDING
+[2025-06-16 17:25:07] cmbz9f3pc00w9my75o42d5lsm - Expirado e removido
+[2025-06-16 17:25:10] cmbzd7b6h002llzr4y1o9qk3w - Novo PIX gerado e salvo como PENDING
+[2025-06-17 02:20:46] cmbzd7b6h002llzr4y1o9qk3w - Expirado e removido
+[2025-06-17 02:20:49] cmbzwc5ys06yc13v6ynrxoqt3 - Novo PIX gerado e salvo como PENDING
+[2025-06-17 08:41:38] cmbzwc5ys06yc13v6ynrxoqt3 - Expirado e removido
+[2025-06-17 08:41:40] cmc09xy6k00yd612sahkc51bc - Novo PIX gerado e salvo como PENDING
+[2025-06-17 10:53:06] cmc09xy6k00yd612sahkc51bc - Expirado e removido
+[2025-06-17 10:53:09] cmc0en12t036svw4td4xirash - Novo PIX gerado e salvo como PENDING
+[2025-06-17 11:49:45] cmc0en12t036svw4td4xirash - Expirado e removido
+[2025-06-17 11:49:47] cmc0gnvh5008yq8hifzezsbrn - Novo PIX gerado e salvo como PENDING
+[2025-06-17 11:51:48] cmc0gnvh5008yq8hifzezsbrn - Removido via deletar.php
+[2025-06-17 11:51:49] cmc0gnvh5008yq8hifzezsbrn - Removido via deletar.php
+[2025-06-17 12:22:28] cmc0htw5c04w6jgvakzqo9sq3 - Novo PIX gerado e salvo como PENDING
+[2025-06-17 12:23:49] cmc0htw5c04w6jgvakzqo9sq3 - Removido via deletar.php
+[2025-06-17 13:35:48] cmc0kg6t905axgpsjibq9gpf8 - Novo PIX gerado e salvo como PENDING
+[2025-06-17 15:43:32] cmc0kg6t905axgpsjibq9gpf8 - Expirado e removido
+[2025-06-17 15:43:35] cmc0p0j6g003sxgbuipq6ggcc - Novo PIX gerado e salvo como PENDING
+[2025-06-17 15:47:42] cmc0p5ta1006uc6lull21l0jc - Novo PIX gerado e salvo como PENDING
+[2025-06-17 15:49:09] cmc0p5ta1006uc6lull21l0jc - Removido via deletar.php
+[2025-06-17 16:09:14] cmc0p0j6g003sxgbuipq6ggcc - Expirado e removido
+[2025-06-17 16:09:16] cmc0pxkix00ak110wi0lkeaih - Novo PIX gerado e salvo como PENDING
+[2025-06-17 16:12:15] cmc0pxkix00ak110wi0lkeaih - Removido via deletar.php
+[2025-06-17 16:25:08] cmc0qhyfk00sf110wflcfw34h - Novo PIX gerado e salvo como PENDING
+[2025-06-17 16:51:20] cmc0qhyfk00sf110wflcfw34h - PAGO e enviado para UTMify
+[2025-06-17 16:51:22] cmc0rfpq701j2110wxhwu4sph - Novo PIX gerado e salvo como PENDING
+[2025-06-17 17:00:09] cmc0rfpq701j2110wxhwu4sph - Removido via deletar.php
+[2025-06-17 19:49:59] cmc0xtejp000lwpzhkg56ju53 - Novo PIX gerado e salvo como PENDING
+[2025-06-17 20:27:23] cmc0xtejp000lwpzhkg56ju53 - Expirado e removido
+[2025-06-17 20:27:26] cmc0z5kc1009eluzddzvzwlct - Novo PIX gerado e salvo como PENDING
+[2025-06-17 20:58:05] cmc0z5kc1009eluzddzvzwlct - Expirado e removido
+[2025-06-17 20:58:07] cmc10918f0cw9612szxgb8auc - Novo PIX gerado e salvo como PENDING
+[2025-06-17 21:41:57] cmc10918f0cw9612szxgb8auc - Expirado e removido
+[2025-06-17 21:42:00] cmc11tgjt01ehwpzhbgxcpaf3 - Novo PIX gerado e salvo como PENDING
+[2025-06-19 10:12:20] cmc1et9x8047kpmom1a2omnom - Expirado e removido
+[2025-06-19 10:12:23] cmc382b55002z26735ut2127l - Novo PIX gerado e salvo como PENDING
+[2025-06-19 10:14:43] cmc382b55002z26735ut2127l - Removido via deletar.php
+[2025-06-22 16:35:41] cmb1hrtwn060l14goc8nxvomi - Expirado e removido
+[2025-06-22 16:35:44] cmc7w2uye00amn0swu9a77ta4 - Novo PIX gerado e salvo como PENDING
