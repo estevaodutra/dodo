@@ -1,0 +1,34 @@
+/* Estilos para os itens de caridade */
+.charity-item {
+  position: relative;
+  cursor: pointer;
+  transition: all 0.2s ease;
+}
+
+.charity-item.selected {
+  background-color: rgba(76, 175, 80, 0.1);
+  border-color: #4caf50;
+}
+
+.charity-item.selected::after {
+  content: "✓";
+  position: absolute;
+  top: 10px;
+  right: 10px;
+  color: #4caf50;
+  font-weight: bold;
+  font-size: 16px;
+}
+
+.charity-options {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 10px;
+  margin-bottom: 20px;
+}
+
+@media (max-width: 768px) {
+  .charity-options {
+    flex-direction: column;
+  }
+}
